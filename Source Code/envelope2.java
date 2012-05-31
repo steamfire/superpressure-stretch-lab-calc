@@ -1,3 +1,4 @@
+// SEE LICENSE FILE FOR COPYING/LICENSE INFORMATION
 
 import java.awt.Component;
 import java.awt.Container;
